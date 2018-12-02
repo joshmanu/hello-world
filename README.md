@@ -1,6 +1,8 @@
 # hello-world
 first github
 
-Make of changes to later do a 
+Make of change to later do a 
 
-another edit without commit
+another edit wihout commit
+
+another changeeee
